@@ -1,5 +1,5 @@
-from adoptopenjdk:17.0.6_9-jdk-hotspot
+FROM amazoncorretto:11-alpine.jdk
 
-copy target/demo-0.0.1-SNAPSHOT.jar app.jar
+COPY target/demo-0.0.1-SNAPSHOT.jar porfolio-app.jar
 
-entrypoint ["java", "-jar", "/app.jar"]
+ENTRYPOINT ["java", "-jar", "porfolio-/app.jar"]

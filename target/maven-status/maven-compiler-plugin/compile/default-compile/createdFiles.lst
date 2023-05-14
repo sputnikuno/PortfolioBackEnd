@@ -20,6 +20,7 @@ com\porfolio\demo\DemoApplication.class
 com\porfolio\demo\Dto\dtoExperiencia.class
 com\porfolio\demo\DemoApplication$1.class
 com\porfolio\demo\Security\Repository\iRolRepository.class
+.netbeans_automatic_build
 com\porfolio\demo\entity\Persona.class
 com\porfolio\demo\Repository\RExperiencia.class
 com\porfolio\demo\Security\JWT\JWTEntryPoint.class
