@@ -1,4 +1,4 @@
-FROM alpine:3.17.jdk
+FROM alpine:3.17
 
 ARG version=17.0.7.7.1
 
