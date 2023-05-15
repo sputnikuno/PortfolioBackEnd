@@ -1,4 +1,4 @@
-FROM alpine:3.14
+FROM amazoncorretto:17
 
 COPY target/demo-0.0.1-SNAPSHOT.jar app.jar
 
