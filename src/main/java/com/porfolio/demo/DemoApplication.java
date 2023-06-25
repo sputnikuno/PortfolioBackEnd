@@ -18,7 +18,7 @@ public WebMvcConfigurer corsConfigurer() {
 		return new WebMvcConfigurer() {
 			@Override
 			public void addCorsMappings(CorsRegistry registry) {
-				registry.addMapping("/**").allowedOrigins("https://frontend-porfolio-gl.web.app").allowedMethods("*");
+				registry.addMapping("/**").allowedOrigins("https://frontend-porfolio-gl.web.app, https://backend-porfolio-pxia.onrender.com").allowedMethods("*");
 			}
 		};
 	}
