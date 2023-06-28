@@ -1,4 +1,3 @@
-com\porfolio\demo\Interface\IPersonaService.class
 com\porfolio\demo\Security\Entity\UsuarioPrincipal.class
 com\porfolio\demo\Security\JWT\JWTTokenFilter.class
 com\porfolio\demo\Security\Controller\Mensaje.class

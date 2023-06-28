@@ -15,8 +15,8 @@ G:\cursos\Argentina Programa\YO PROGRAMO\Portfolio\PortfolioBackEnd\src\main\jav
 G:\cursos\Argentina Programa\YO PROGRAMO\Portfolio\PortfolioBackEnd\src\main\java\com\porfolio\demo\entity\Experiencia.java
 G:\cursos\Argentina Programa\YO PROGRAMO\Portfolio\PortfolioBackEnd\src\main\java\com\porfolio\demo\DemoApplication.java
 G:\cursos\Argentina Programa\YO PROGRAMO\Portfolio\PortfolioBackEnd\src\main\java\com\porfolio\demo\Repository\IPersonaRepository.java
-G:\cursos\Argentina Programa\YO PROGRAMO\Portfolio\PortfolioBackEnd\src\main\java\com\porfolio\demo\Interface\IPersonaService.java
 G:\cursos\Argentina Programa\YO PROGRAMO\Portfolio\PortfolioBackEnd\src\main\java\com\porfolio\demo\Service\ImpPersonaService.java
+G:\cursos\Argentina Programa\YO PROGRAMO\Portfolio\PortfolioBackEnd\src\main\java\com\porfolio\demo\Dto\dtoPersona.java
 G:\cursos\Argentina Programa\YO PROGRAMO\Portfolio\PortfolioBackEnd\src\main\java\com\porfolio\demo\Controller\PersonaController.java
 G:\cursos\Argentina Programa\YO PROGRAMO\Portfolio\PortfolioBackEnd\src\main\java\com\porfolio\demo\Security\Service\UserDetailsImp.java
 G:\cursos\Argentina Programa\YO PROGRAMO\Portfolio\PortfolioBackEnd\src\main\java\com\porfolio\demo\Service\ServExperiencia.java
