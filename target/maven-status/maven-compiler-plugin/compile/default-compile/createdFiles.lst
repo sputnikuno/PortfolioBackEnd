@@ -9,6 +9,7 @@ com\porfolio\demo\entity\Experiencia.class
 com\porfolio\demo\Security\Dto\JWTDto.class
 com\porfolio\demo\Security\Controller\AuthController.class
 com\porfolio\demo\Security\Entity\Rol.class
+com\porfolio\demo\Dto\dtoPersona.class
 com\porfolio\demo\Security\JWT\JWTProvider.class
 com\porfolio\demo\Service\ImpPersonaService.class
 com\porfolio\demo\Security\Dto\LoginUsuario.class
